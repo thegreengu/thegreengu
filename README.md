@@ -8,4 +8,4 @@
 
     -  For the time being, most of my repos are private. (sorry, that will change)
 
-$$\sqrt{x}^2\neq x$$
+$$\sqrt{x^2}\neq x$$
