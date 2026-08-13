@@ -1,11 +1,15 @@
-## Welcome to my profile!
+<br>
 
-    -  Im an amateur developer that makes random little projects and videogames.
-    
-    -  I make dubstep music.
+## → Welcome, im greenguy/cazuelafria!
 
-    -  Dont take me too seriously all the time, all of this is for fun.
+*  Im an amateur developer that makes random little projects and [small video-games](https://i-make-videogames.itch.io/).
 
-    -  For the time being, most of my repos are private. (sorry, that will change)
+*  I don't do vivecoding. (Why would i do that if i came here for fun)
+  
+*  For the time being, most of my repos are private. (Just wait)
 
-$$\sqrt{x^2}\neq x$$
+*  I make [cool electronic music](https://soundcloud.com/greenguydubstep) as a secondary hobby.
+
+<br><br>
+
+$$\sqrt{x^2} \neq x$$
